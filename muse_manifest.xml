@@ -1,0 +1,119 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Decabristy.com" resolutions="1x" timestamp="1666779535726">
+  <folder name="css">
+    <file name="site_global.css" crc="162508192"/>
+    <file name="index.css" crc="492484445" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="шапка-декабристы.jpg" crc="31187101" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11466-4.png" crc="4245853357" ref="index"/>
+    <file name="u11537-4.png" crc="288442596" ref="index"/>
+    <file name="u12113-4.png" crc="420840072" ref="index"/>
+    <file name="улица декабристов.jpg" crc="3896743598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11685-4.png" crc="418925365" ref="index"/>
+    <file name="якубович.jpg" crc="4048123434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11468-4.png" crc="4011115018" ref="index"/>
+    <file name="каховский.jpg" crc="194964899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11939-4.png" crc="3790613273" ref="index"/>
+    <file name="одоевский.jpg" crc="4037378900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11935-4.png" crc="3966171525" ref="index"/>
+    <file name="пестель.jpg" crc="314272752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11328-4.png" crc="4230792048" ref="index"/>
+    <file name="рылеев.jpg" crc="122245945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11424-4.png" crc="220801062" ref="index"/>
+    <file name="николай 1.jpg" crc="3962543608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="памятник николаю 2.jpg" crc="384859432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11539-4.png" crc="3872132625" ref="index"/>
+    <file name="обелиск казни 2.jpg" crc="52951810" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="обелиск казни 1.jpg" crc="4291214007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11823-7.png" crc="113905844" ref="index"/>
+    <file name="мем доска декабристам.jpg" crc="3914772794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12014-7.png" crc="4130801350" ref="index"/>
+    <file name="захоронение 1.jpg" crc="3792273206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="захоронение 3.jpg" crc="3888053371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11330-7.png" crc="340174214" ref="index"/>
+    <file name="u11642-7.png" crc="136658644" ref="index"/>
+    <file name="фонтанки 90.jpg" crc="3944021458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11898-8.png" crc="4262111735" ref="index"/>
+    <file name="мем_доска_ф_н_глинке.jpg" crc="433317748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11470-8.png" crc="4236752097" ref="index"/>
+    <file name="мем_муравьевым_фонтанка_25.jpg" crc="145283286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11541-5.png" crc="492478050" ref="index"/>
+    <file name="тургенев 1.jpg" crc="4005576002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тургенев 2.jpg" crc="365705854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11350-7.png" crc="3784237116" ref="index"/>
+    <file name="мем_д_лунину.jpg" crc="4242692288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11645-8.png" crc="339961334" ref="index"/>
+    <file name="мем_д_гренадёрам.jpg" crc="4278809865" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11422-4.png" crc="4226313560" ref="index"/>
+    <file name="сенатская площадь.jpg" crc="313855585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фон меню.jpg" crc="3979709565" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u14939-4.png" crc="151622011" ref="index"/>
+    <file name="u14936-4.png" crc="192150779" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1686081491551682745-512.png" crc="3891157673" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кирпич copy2.jpg" crc="77981671" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4202799840" seo="true" mt="1666779462099" redirect="true"/>
+</manifest>
